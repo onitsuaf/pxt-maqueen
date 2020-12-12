@@ -2,7 +2,7 @@
   "maqueen.Dir.CCW|block": "Contra-relógio",
   "maqueen.Dir.CW|block": "Relógio",
   "maqueen.IR_callbackUser|block": "em Infravermelhos recebido",
-  "maqueen.IR_read_version|block": "obet informação do produto",
+  "maqueen.IR_read_version|block": "obter informação do produto",
   "maqueen.IR_read|block": "ler infravermelhos",
   "maqueen.LED.LEDLeft|block": "esquerda",
   "maqueen.LED.LEDRight|block": "direita",
